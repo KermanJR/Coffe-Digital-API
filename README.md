@@ -45,7 +45,7 @@ $ npx prisma migrate dev
 
 ## Stay in touch
 
-- Author - [Enzo Paiva](https://github.com/enzodpaiva)
+- Author - [Kerman JR](https://github.com/KermanJR)
 
 ## License
 
